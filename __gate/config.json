@@ -1,0 +1,1 @@
+{"version":1,"format":"sealed-pages-v1","build":"894b30b1c55043d4df049081427ef146","basepath":"/3d/","cipher":"AES-256-GCM","kdf":"PBKDF2","hash":"SHA-256","iterations":600000,"salt":"vk9r6W2+7jQ+obUPoxetPxsGpPHfpsgCaWGSA2n5H9c=","manifest":"610f1f7034af8f5193a94f3fe69252212d70854badcbd3d0df4f9e9d3e8a7bbd","chunkSize":4194304}
